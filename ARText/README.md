@@ -3,7 +3,9 @@
 
 ARText is the first Chinese Artistic Dataset used for text detection and recognition, which consists of 33, 000 Chinese artistic images collected from the Internet.
 
-<img src="../resources/ARText_examples.jpg" width="500" height="350" />
+<div align=center>
+    <img src="../resources/ARText_examples.jpg" width="600" height="420" />
+</div>
 
 
 
@@ -49,7 +51,9 @@ Moreover, we calculate the occurrence frequency of each character in both traini
 
 We also calculate the text length distribution of the whole dataset. Note that there might be multiple text instances in one image, so the image counts can be larger than ARText image number.  
 
-<img src="../resources/calculate_text_length.jpg" style="zoom:67%;" />
+<div align=center>
+    <img src="../resources/calculate_text_length.jpg" width="600" height="420" />
+</div>
 
 
 
