@@ -33,7 +33,7 @@ opencv-python 4.4.0
 
 ## Preparing data
 
-①Downloading [ARText](ARText/README.md) dataset from：https://pan.baidu.com/s/1gfdcArcFEEkpAu3KGiFhQQ 
+①Downloading ARText dataset from：https://pan.baidu.com/s/1gfdcArcFEEkpAu3KGiFhQQ 
     code: fe7n 
 
 ②unzip ARText in data folder, the structure should be
