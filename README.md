@@ -11,6 +11,8 @@ This code is modified based on [AE TextSpotter](https://github.com/whai362/AE_Te
 
 ## ARText dataset
 
+Please refer to the [detailed description](ARText/README.md) of ARText dataset.
+
 
 
 ## Install
@@ -33,8 +35,7 @@ opencv-python 4.4.0
 
 ## Preparing data
 
-①Downloading [ARText](ARText/README.md) dataset from：https://pan.baidu.com/s/1gfdcArcFEEkpAu3KGiFhQQ 
-    code: fe7n 
+①Downloading [ARText](ARText/README.md) dataset
 
 ②unzip ARText in data folder, the structure should be
 
