@@ -25,7 +25,7 @@ We collect our ARText images all from the Internet, trying to cover a wide conte
 
 ## Annotation Details
 
-The annotation format in ARText is similar to [IC19-ReCTS](https://rrc.cvc.uab.es/?ch=12).
+The annotation format in ARText is similar to [ICDAR19-ReCTS](https://rrc.cvc.uab.es/?ch=12).
 
 In each annotation, we provide text-level bounding box and character-level bounding box with their contents. The format of the bounding box includes four corner points of the orientated bounding box. In one image, there may be multiple texts in different font size, but we only focus on the main part and ignore some small texts.  
 

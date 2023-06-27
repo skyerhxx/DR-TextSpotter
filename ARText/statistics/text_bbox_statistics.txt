@@ -1,0 +1,8 @@
+the number of valid text bbox(ignore=0) and its corresponding img number:       
+Counter({1: 16020, 2: 9103, 3: 3064, 4: 1034, 5: 385, 6: 175, 0: 69, 7: 65, 8: 39, 9: 24, 10: 10, 12: 3, 16: 3, 11: 3, 18: 1, 14: 1, 22: 1})
+
+the number of valid text bbox in 30000 imgs
+51783
+
+the average number of valid text bbox in 30000 imgs
+1.7261

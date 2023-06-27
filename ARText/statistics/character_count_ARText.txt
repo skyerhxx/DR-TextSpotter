@@ -1,0 +1,9 @@
+Whole dataset
+3535 characters
+
+train set
+3535 characters
+
+test set
+2438 characters
+
