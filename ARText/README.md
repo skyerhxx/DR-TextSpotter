@@ -48,7 +48,7 @@ The whole dataset includes 33, 000 images with 3563 different kinds of Chinese c
 We label dataset images into three categories (Simple, Medium, Hard) manually, according to the recognition difficulty standard (as described below). There are some image category examples
 
 <div align=center>
-    <img src="../resources/ARText_classification_standard.jpg" width="356" height="135" />
+    <img src="../resources/ARText_classification_standard.jpg" width="534" height="202" />
 </div>
 
    
