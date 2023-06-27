@@ -61,7 +61,7 @@ Moreover, we calculate the occurrence frequency of each character in both traini
 
 <img src="../resources/character-frequency.jpg" style="zoom:67%;" />
 
-We also calculate the text length distribution of the whole dataset. Note that there might be multiple text instances in one image, so the image counts can be larger than ARText image number.  
+The text length distribution of the whole dataset is presented below. Note that there might be multiple text instances in one image, so the image counts can be larger than ARText image number.  
 
 <div align=center>
     <img src="../resources/calculate_text_length.jpg" width="420" height="294" />
