@@ -29,7 +29,9 @@ The annotation format in ARText is similar to [IC19-ReCTS](https://rrc.cvc.uab.e
 
 In each annotation, we provide text-level bounding box and character-level bounding box with their contents. The format of the bounding box includes four corner points of the orientated bounding box. In one image, there may be multiple texts in different font size, but we only focus on the main part and ignore some small texts.  
 
-<img src="../resources/annotation_example_img.jpg" />
+<div align=center>
+    <img src="../resources/annotation_example_img.jpg" />
+</div>
 
 <img src="../resources/annotation_example.jpg" />
 
@@ -39,7 +41,7 @@ In each annotation, we provide text-level bounding box and character-level bound
 
 The whole dataset includes 33, 000 images with 3563 different kinds of Chinese characters. The dataset statistics can be seen below. 
 
-<img src="../resources/ARText_statistics.jpg" style="zoom:50%;" />
+<img src="../resources/ARText_statistics.jpg" width="620" height="154" />
 
 We label dataset images into three categories (Simple, Medium, Hard) manually, according to the recognition difficulty standard (as described below). There are some image category examples
 
