@@ -13,7 +13,7 @@ ARText is the first Chinese Artistic Dataset used for text detection and text re
 
 Download ARText dataset from:
 
-https://pan.baidu.com/s/1gfdcArcFEEkpAu3KGiFhQQ   code: fe7n
+https://pan.baidu.com/s/1gJtAMCnnQAh_OTrafln94Q    code: zvll
 
 
 
