@@ -19,7 +19,7 @@ https://pan.baidu.com/s/1gfdcArcFEEkpAu3KGiFhQQ   code: fe7n
 
 ## Data Resource
 
-We collect our ARText images all from the Internet, trying to cover a wide content range. Then we impose data cleaning manually on them, removing images with low-resolution or inappropriate content. Finally, we category these images into different types as **UGC (User Generated Content), movies, TV series, children, comic, variety show and documentary**.
+We collect our ARText images all from the Internet, trying to cover a wide content range. Then we impose data cleaning manually on them, removing images with low-resolution or inappropriate content. Finally, we category these images into different types as **UGC (User Generated Content), Movies, TV series, Children, Comic, Variety Show and Documentary**.
 
 
 
