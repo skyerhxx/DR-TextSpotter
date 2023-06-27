@@ -1,7 +1,8 @@
 
 # ARText
 
-ARText is the first Chinese Artistic Dataset used for text detection and text recognition, which consists of 33000 Chinese artistic images (with 3535 characters) collected from the Internet.
+ARText is the first Chinese Artistic Dataset focus on the font diversity and shape variance of characters in text spotting/text detection/text recognition. ARText consists of 33000 Chinese artistic images (with 3535 characters) collected from the Internet, which is randomly divided into training set (30, 000 images)
+and testing set (3, 000 images) for model development.
 
 <div align=center>
     <img src="../resources/ARText_examples.jpg" width="780" height="504" />
@@ -27,7 +28,9 @@ We collect our ARText images all from the Internet, trying to cover a wide conte
 
 The annotation format in ARText is similar to [ICDAR19-ReCTS](https://rrc.cvc.uab.es/?ch=12).
 
-In each annotation, we provide text-level bounding box and character-level bounding box with their contents. The format of the bounding box includes four corner points of the orientated bounding box. In one image, there may be multiple texts in different font size, but we only focus on the main part and ignore some small texts.  
+In each annotation, we provide text-level and character-level annotations, including the bounding boxes and the corresponding content, which can be utilized in text detection, text recognition and text spotting tasks.  
+
+The format of the bounding box includes four corner points of the orientated bounding box. In one image, there may be multiple texts in different font size, but we only focus on the main part and ignore some small texts.  
 
 <div align=center>
     <img src="../resources/annotation_example_img.jpg" />

@@ -5,9 +5,11 @@
 
 Official implementation of DR_TextSpotter.
 
+<div align=center>
+    <img src="resources/overall-architecture.jpg" />
+</div>
 
-
-This code is modified based on [AE TextSpotter](https://github.com/whai362/AE_TextSpotter) and [MMDetection](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1).
+This code is based on [AE TextSpotter](https://github.com/whai362/AE_TextSpotter) and [MMDetection](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1).
 
 ## ARText dataset
 
