@@ -42,13 +42,13 @@ In each annotation, we provide text-level bounding box and character-level bound
 The whole dataset includes 33, 000 images with 3563 different kinds of Chinese characters. The dataset statistics can be seen below. 
 
 <div align=center>
-    <img src="../resources/ARText_statistics.jpg" width="680" height="154" />
+    <img src="../resources/ARText_statistics.jpg" width="816" height="185" />
 </div>
 
 We label dataset images into three categories (Simple, Medium, Hard) manually, according to the recognition difficulty standard (as described below). There are some image category examples
 
 <div align=center>
-    <img src="../resources/ARText_classification_standard.jpg" style="zoom:50%;" />
+    <img src="../resources/ARText_classification_standard.jpg" width="356" height="135" />
 </div>
 
    
