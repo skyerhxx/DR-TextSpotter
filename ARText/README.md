@@ -33,7 +33,9 @@ In each annotation, we provide text-level bounding box and character-level bound
     <img src="../resources/annotation_example_img.jpg" />
 </div>
 
-<img src="../resources/annotation_example.jpg" />
+<div align=center>
+    <img src="../resources/annotation_example.jpg" width="816" height="185" />
+</div>
 
 
 
