@@ -4,7 +4,7 @@
 ARText is the first Chinese Artistic Dataset used for text detection and recognition, which consists of 33, 000 Chinese artistic images collected from the Internet.
 
 <div align=center>
-    <img src="../resources/ARText_examples.jpg" width="600" height="420" />
+    <img src="../resources/ARText_examples.jpg" width="780" height="504" />
 </div>
 
 
