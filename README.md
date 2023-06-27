@@ -15,7 +15,9 @@ This code is based on [AE TextSpotter](https://github.com/whai362/AE_TextSpotter
 
 Please refer to the [detailed description](ARText/README.md) of ARText dataset.
 
-
+<div align=center>
+    <img src="resources/ARText_examples.jpg" width="780" height="504" />
+</div>
 
 ## Install
 
