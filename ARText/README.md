@@ -56,7 +56,7 @@ We label dataset images into three categories (Simple, Medium, Hard) manually, a
     <img src="../resources/ARText_classification_standard.jpg" width="534" height="202" />
 </div>
 
-   
+
 
 <img src="../resources/ARText_category_examples.jpg" style="zoom:50%;" />
 
