@@ -6,7 +6,7 @@
 Official implementation of DR_TextSpotter.
 
 <div align=center>
-    <img src="resources/overall-architecture.jpg" width="624" height="303"/>
+    <img src="resources/overall-architecture.jpg" width="749" height="364"/>
 </div>
 
 
