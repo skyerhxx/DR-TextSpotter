@@ -6,8 +6,9 @@
 Official implementation of DR_TextSpotter.
 
 <div align=center>
-    <img src="resources/overall-architecture.jpg" />
+    <img src="resources/overall-architecture.jpg" width="624" height="303"/>
 </div>
+
 
 This code is based on [AE TextSpotter](https://github.com/whai362/AE_TextSpotter) and [MMDetection](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1).
 
