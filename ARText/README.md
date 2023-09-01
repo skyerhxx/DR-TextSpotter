@@ -44,7 +44,7 @@ The format of the bounding box includes four corner points of the orientated bou
 
 ## Dataset Analysis
 
-The whole dataset includes 33, 000 images with 3563 different kinds of Chinese characters. The dataset statistics can be seen below. 
+The whole dataset includes 33, 000 images with 3,563 different kinds of Chinese characters. The dataset statistics can be seen below. 
 
 <div align=center>
     <img src="../resources/ARText_statistics.jpg" width="816" height="185" />
