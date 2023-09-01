@@ -1,8 +1,8 @@
 
 # ARText
 
-ARText is the first Chinese Artistic Dataset focus on the font diversity and shape variance of characters in text spotting/text detection/text recognition. ARText consists of 33000 Chinese artistic images (with 3535 characters) collected from the Internet, which is randomly divided into training set (30, 000 images)
-and testing set (3, 000 images) for model development.
+ARText is the first Chinese Artistic Dataset focus on the font diversity and shape variance of characters in text spotting/text detection/text recognition. ARText consists of 33,000 Chinese artistic images (with 3,535 characters) collected from the Internet, which is randomly divided into training set (30,000 images)
+and testing set (3,000 images) for model development.
 
 <div align=center>
     <img src="../resources/ARText_examples.jpg" width="780" height="504" />
@@ -75,5 +75,14 @@ The text length distribution of the whole dataset is presented below. Note that 
 
 ## Citation
 
+If you find this dataset helpful, please cite:
 
+```
+@article{hao2023deformdrt,
+  author = {Xixuan Hao and Aozhong Zhang and Xianze Meng and Bin Fu},
+  title = {Deformation Robust Text Spotting with Geometric Prior},
+  year = {2023},
+  journal = {arXiv preprint arXiv:2308.16404},
+}
+```
 
