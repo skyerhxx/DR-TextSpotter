@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Official implementation of DR_TextSpotter.
+Official implementation of [DR TextSpotter](https://arxiv.org/abs/2308.16404).
 
 <div align=center>
     <img src="resources/overall-architecture.jpg" width="749" height="364"/>
@@ -11,6 +11,8 @@ Official implementation of DR_TextSpotter.
 
 
 This code is based on [AE TextSpotter](https://github.com/whai362/AE_TextSpotter) and [MMDetection](https://github.com/open-mmlab/mmdetection/tree/v1.0rc1).
+
+The dataset is released now!
 
 The code is coming soon!
 
