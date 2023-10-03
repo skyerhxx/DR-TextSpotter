@@ -14,8 +14,6 @@ This code is based on [AE TextSpotter](https://github.com/whai362/AE_TextSpotter
 
 The dataset is released now!
 
-The code is coming soon!
-
 ## ARText dataset
 
 Please refer to the [detailed description of ARText dataset](ARText/README.md) .
